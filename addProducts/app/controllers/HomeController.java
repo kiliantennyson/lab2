@@ -19,12 +19,12 @@ public class HomeController extends Controller {
         return ok(views.html.index.render());
     }
 
-    public Result about() {
-        return ok(about.render());
+    public Result products() {
+        return ok(views.html.products.render());
     }
 
-    public Result products() {
-        return ok(products.render());
+    public Result about() {
+        return ok(views.html.about.render());
     }
 
 }

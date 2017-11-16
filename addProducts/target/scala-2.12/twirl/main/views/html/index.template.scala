@@ -25,12 +25,16 @@ import play.core.j.PlayFormsMagicForJava._
 object index extends _root_.play.twirl.api.BaseScalaTemplate[play.twirl.api.HtmlFormat.Appendable,_root_.play.twirl.api.Format[play.twirl.api.HtmlFormat.Appendable]](play.twirl.api.HtmlFormat) with _root_.play.twirl.api.Template0[play.twirl.api.HtmlFormat.Appendable] {
 
   /**/
-  def apply():play.twirl.api.HtmlFormat.Appendable = {
+  def apply/*1.2*/():play.twirl.api.HtmlFormat.Appendable = {
     _display_ {
       {
 
 
-Seq[Any](format.raw/*1.1*/("""<!DOCTYPE html>
+Seq[Any](format.raw/*1.4*/("""
+
+"""),_display_(/*3.2*/main("Home")/*3.14*/ {_display_(Seq[Any](format.raw/*3.16*/("""
+""")))}),format.raw/*4.2*/("""
+"""),format.raw/*5.1*/("""<!DOCTYPE html>
 <html>
 
 <head>
@@ -39,19 +43,7 @@ Seq[Any](format.raw/*1.1*/("""<!DOCTYPE html>
 </head>
 
 <body>
-  <!-- start of nav section -->
-  <nav class="navbar navbar-inverse">
-    <!-- nav header/ branding -->
-    <div class="navbar-header">
-      <a class="navbar-brand" href="/">Lab 2</a>
-    </div>
-    <!-- List containing nav links -->
-    <ul class="nav navbar-nav">
-      <li class="active"><a href="/">Home</a></li>
-      <li><a href="/about">About Us</a></li>
-      <li ><a href="/products">products</a></li>
-    </ul>
-  </nav>
+ 
 
   <div class="container-fluid">
     <div class="row">
@@ -89,11 +81,11 @@ Seq[Any](format.raw/*1.1*/("""<!DOCTYPE html>
 
               /*
                   -- GENERATED --
-                  DATE: Thu Nov 16 20:12:34 GMT 2017
+                  DATE: Thu Nov 16 21:14:03 GMT 2017
                   SOURCE: /home/wdd/webapps/lab2upload/addProducts/app/views/index.scala.html
-                  HASH: 5bb45ecdd15fdfc6e985ac0e51ba7671aeae3af1
-                  MATRIX: 1030->0
-                  LINES: 33->1
+                  HASH: ca5e93958180360432d058142c64bbb9f79e1e90
+                  MATRIX: 941->1|1037->3|1065->6|1085->18|1124->20|1155->22|1182->23
+                  LINES: 28->1|33->1|35->3|35->3|35->3|36->4|37->5
                   -- GENERATED --
               */
           

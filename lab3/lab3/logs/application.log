@@ -145,3 +145,4 @@ play.sbt.PlayExceptions$CompilationException: Compilation error[value Asssets is
     play.filters.hosts.AllowedHostsFilter
 
 2017-11-16 21:02:51,314 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-55 - Application started (Dev)
+2017-11-16 21:05:41,287 [INFO] from play.core.server.AkkaHttpServer in pool-5-thread-4 - Stopping server...
