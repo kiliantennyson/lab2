@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/lab3/lab3/app/views/index.scala.html:7:58: value Asssets is not a member of object controllers.routes[0m
+[0m[[0m[31merror[0m] [0m[0m<link rel="shortcut icon" type="image/png" href="@routes.Asssets.versioned("images/favicon.png")">[0m
+[0m[[0m[31merror[0m] [0m[0m                                                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
