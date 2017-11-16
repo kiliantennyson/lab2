@@ -1,3 +1,5 @@
 run
 exit
 run
+code .
+exit
