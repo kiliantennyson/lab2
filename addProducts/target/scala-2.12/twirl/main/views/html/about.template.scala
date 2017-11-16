@@ -33,7 +33,7 @@ object about extends _root_.play.twirl.api.BaseScalaTemplate[play.twirl.api.Html
 Seq[Any](format.raw/*1.4*/("""
 
 """),_display_(/*3.2*/main("Aboutus")/*3.17*/ {_display_(Seq[Any](format.raw/*3.19*/("""
-""")))}),format.raw/*4.2*/("""
+
 
 """),format.raw/*6.1*/("""<!DOCTYPE html>
 <html>
@@ -59,14 +59,13 @@ Seq[Any](format.raw/*1.4*/("""
         </h4>
       </div>
   </div>
-    <footer class="container-fluid text-center">
-      <p>Copyright 2017</p>
-    </footer>
+    
     
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 </body>
 
-</html>"""))
+</html>
+""")))}))
       }
     }
   }
@@ -82,11 +81,11 @@ Seq[Any](format.raw/*1.4*/("""
 
               /*
                   -- GENERATED --
-                  DATE: Thu Nov 16 21:16:13 GMT 2017
+                  DATE: Thu Nov 16 21:22:11 GMT 2017
                   SOURCE: /home/wdd/webapps/lab2upload/addProducts/app/views/about.scala.html
-                  HASH: d9cfc8559d23ba1580ad14b1371bdbcb94f9e846
-                  MATRIX: 941->1|1037->3|1065->6|1088->21|1127->23|1158->25|1186->27
-                  LINES: 28->1|33->1|35->3|35->3|35->3|36->4|38->6
+                  HASH: d8022a70fa708d055efef3693fbc43405feb3a3b
+                  MATRIX: 941->1|1037->3|1065->6|1088->21|1127->23|1156->26
+                  LINES: 28->1|33->1|35->3|35->3|35->3|38->6
                   -- GENERATED --
               */
           

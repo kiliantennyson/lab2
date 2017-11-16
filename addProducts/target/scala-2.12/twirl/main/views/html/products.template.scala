@@ -33,7 +33,7 @@ object products extends _root_.play.twirl.api.BaseScalaTemplate[play.twirl.api.H
 Seq[Any](format.raw/*1.4*/("""
 
 """),_display_(/*3.2*/main("Products")/*3.18*/ {_display_(Seq[Any](format.raw/*3.20*/("""
-""")))}),format.raw/*4.2*/("""
+
 """),format.raw/*5.1*/("""<!DOCTYPE html>
 <html>
 
@@ -58,14 +58,13 @@ Seq[Any](format.raw/*1.4*/("""
         </h4>
       </div>
   </div>
-    <footer class="container-fluid text-center">
-      <p>Copyright 2017</p>
-    </footer>
+    
     
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 </body>
 
-</html>"""))
+</html>
+""")))}))
       }
     }
   }
@@ -81,11 +80,11 @@ Seq[Any](format.raw/*1.4*/("""
 
               /*
                   -- GENERATED --
-                  DATE: Thu Nov 16 21:14:03 GMT 2017
+                  DATE: Thu Nov 16 21:31:46 GMT 2017
                   SOURCE: /home/wdd/webapps/lab2upload/addProducts/app/views/products.scala.html
-                  HASH: c57a632a9b6dd10edaa93d16e252d1a0c54c63d0
-                  MATRIX: 944->1|1040->3|1068->6|1092->22|1131->24|1162->26|1189->27
-                  LINES: 28->1|33->1|35->3|35->3|35->3|36->4|37->5
+                  HASH: 3b805ee9847256b580572f8ff04c014b634044cb
+                  MATRIX: 944->1|1040->3|1068->6|1092->22|1131->24|1159->26
+                  LINES: 28->1|33->1|35->3|35->3|35->3|37->5
                   -- GENERATED --
               */
           

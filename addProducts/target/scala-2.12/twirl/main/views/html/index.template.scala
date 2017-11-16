@@ -33,17 +33,9 @@ object index extends _root_.play.twirl.api.BaseScalaTemplate[play.twirl.api.Html
 Seq[Any](format.raw/*1.4*/("""
 
 """),_display_(/*3.2*/main("Home")/*3.14*/ {_display_(Seq[Any](format.raw/*3.16*/("""
-""")))}),format.raw/*4.2*/("""
+
 """),format.raw/*5.1*/("""<!DOCTYPE html>
 <html>
-
-<head>
-  <title>Home</title>
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.css" />
-</head>
-
-<body>
- 
 
   <div class="container-fluid">
     <div class="row">
@@ -58,9 +50,17 @@ Seq[Any](format.raw/*1.4*/("""
         </h4>
       </div>
   </div>
-    <footer class="container-fluid text-center">
-      <p>Copyright 2017</p>
-    </footer>
+
+""")))}),format.raw/*22.2*/("""
+"""),format.raw/*23.1*/("""<head>
+ 
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.css" />
+</head>
+
+<body>
+ 
+
+    
     
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 </body>
@@ -81,11 +81,11 @@ Seq[Any](format.raw/*1.4*/("""
 
               /*
                   -- GENERATED --
-                  DATE: Thu Nov 16 21:14:03 GMT 2017
+                  DATE: Thu Nov 16 21:30:33 GMT 2017
                   SOURCE: /home/wdd/webapps/lab2upload/addProducts/app/views/index.scala.html
-                  HASH: ca5e93958180360432d058142c64bbb9f79e1e90
-                  MATRIX: 941->1|1037->3|1065->6|1085->18|1124->20|1155->22|1182->23
-                  LINES: 28->1|33->1|35->3|35->3|35->3|36->4|37->5
+                  HASH: f2f7768f659c40254f4198fe8cf853656412455e
+                  MATRIX: 941->1|1037->3|1065->6|1085->18|1124->20|1152->22|1487->327|1515->328
+                  LINES: 28->1|33->1|35->3|35->3|35->3|37->5|54->22|55->23
                   -- GENERATED --
               */
           
