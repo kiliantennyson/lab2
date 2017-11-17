@@ -34,8 +34,7 @@ Seq[Any](format.raw/*1.4*/("""
 
 """),_display_(/*3.2*/main("Aboutus")/*3.17*/ {_display_(Seq[Any](format.raw/*3.19*/("""
 
-
-"""),format.raw/*6.1*/("""<!DOCTYPE html>
+"""),format.raw/*5.1*/("""<!DOCTYPE html>
 <html>
 
 <head>
@@ -81,11 +80,11 @@ Seq[Any](format.raw/*1.4*/("""
 
               /*
                   -- GENERATED --
-                  DATE: Thu Nov 16 21:22:11 GMT 2017
+                  DATE: Thu Nov 16 21:33:40 GMT 2017
                   SOURCE: /home/wdd/webapps/lab2upload/addProducts/app/views/about.scala.html
-                  HASH: d8022a70fa708d055efef3693fbc43405feb3a3b
-                  MATRIX: 941->1|1037->3|1065->6|1088->21|1127->23|1156->26
-                  LINES: 28->1|33->1|35->3|35->3|35->3|38->6
+                  HASH: 433ab6113acbe4c82b5b3d13b05f5bafef42fd6f
+                  MATRIX: 941->1|1037->3|1065->6|1088->21|1127->23|1155->25
+                  LINES: 28->1|33->1|35->3|35->3|35->3|37->5
                   -- GENERATED --
               */
           

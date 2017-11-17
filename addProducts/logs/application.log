@@ -121,3 +121,10 @@ so clearing cookies may resolve this error message.
     play.filters.hosts.AllowedHostsFilter
 
 2017-11-16 21:31:47,985 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-61 - Application started (Dev)
+2017-11-16 21:33:42,911 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-66 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2017-11-16 21:33:42,917 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-66 - Application started (Dev)

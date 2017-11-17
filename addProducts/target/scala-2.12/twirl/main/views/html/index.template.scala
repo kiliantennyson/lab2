@@ -50,17 +50,14 @@ Seq[Any](format.raw/*1.4*/("""
         </h4>
       </div>
   </div>
-
-""")))}),format.raw/*22.2*/("""
-"""),format.raw/*23.1*/("""<head>
+""")))}),format.raw/*21.2*/("""
+"""),format.raw/*22.1*/("""<head>
  
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.css" />
 </head>
 
 <body>
  
-
-    
     
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 </body>
@@ -81,11 +78,11 @@ Seq[Any](format.raw/*1.4*/("""
 
               /*
                   -- GENERATED --
-                  DATE: Thu Nov 16 21:30:33 GMT 2017
+                  DATE: Thu Nov 16 21:33:40 GMT 2017
                   SOURCE: /home/wdd/webapps/lab2upload/addProducts/app/views/index.scala.html
-                  HASH: f2f7768f659c40254f4198fe8cf853656412455e
-                  MATRIX: 941->1|1037->3|1065->6|1085->18|1124->20|1152->22|1487->327|1515->328
-                  LINES: 28->1|33->1|35->3|35->3|35->3|37->5|54->22|55->23
+                  HASH: 4c210fb0b9d4fa848f46e7da7e8b9e821511ea58
+                  MATRIX: 941->1|1037->3|1065->6|1085->18|1124->20|1152->22|1486->326|1514->327
+                  LINES: 28->1|33->1|35->3|35->3|35->3|37->5|53->21|54->22
                   -- GENERATED --
               */
           

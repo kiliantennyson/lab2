@@ -1,0 +1,31 @@
+h3{
+
+   }
+   
+   body{
+       background-color:peachpuff;
+   }
+   
+   #Navigation a{
+       text-decoration: none;
+       
+   }
+
+   #Navigation a:visited{
+    color:black;
+    
+}
+   
+   #Navigation li{
+       list-style-type: none;
+       float: left;
+       margin: 2em;
+       padding: 1.5em;
+       background-color: #dfabab;
+   }
+
+   #Navigation li:hover {
+    background-color: #e7caca;
+}
+
+
